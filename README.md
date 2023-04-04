@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, and CSS**
 
-- 📫 How to reach me **angelwu@pursuit.org**
-
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
